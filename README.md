@@ -1,6 +1,6 @@
 # Caker
 
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.810401.svg)](https://doi.org/10.5281/zenodo.810401) -->
+[![DOI](https://zenodo.org/badge/947520325.svg)](https://doi.org/10.5281/zenodo.15015748)
 
 A python application for batch processing H5 diffraction datasets.
 
@@ -17,4 +17,4 @@ One can run Caker over lunch or dinner time for a large dataset, then PeakPo dat
 
 TBA
 
-<!-- S.-H. Shim (2017) PeakPo - A python software for X-ray diffraction analysis at high pressure and high temperature. Zenodo. http://doi.org/10.5281/zenodo.810199 -->
+S.-H. Shim (2025) Caker - A python software for batch processing diffraction images. Zenodo. https://doi.org/10.5281/zenodo.15015748
