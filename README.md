@@ -10,7 +10,7 @@ One can run Caker over lunch or dinner time for a large dataset, then PeakPo dat
 
 ## How to install with Python and how to use this app
 
-Check [Installation google slide](https://docs.google.com/presentation/d/11nTraMvenpO7E3Cg7NAH2Qa4UpTwjJVcexdU-CPNE9Q/edit?usp=sharing) (up-to-date)
+[Google slide](https://docs.google.com/presentation/d/11nTraMvenpO7E3Cg7NAH2Qa4UpTwjJVcexdU-CPNE9Q/edit?usp=sharing) (up-to-date)
 
 
 ## How to cite
